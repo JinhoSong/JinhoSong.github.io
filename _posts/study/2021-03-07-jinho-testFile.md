@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # 2020 0707
 
