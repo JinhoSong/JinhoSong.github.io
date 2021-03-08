@@ -1,4 +1,10 @@
 ---
+layout: post
+title: '[GithubPages] 04.테스트하기'
+subtitle: 커스텀하기
+categories: study
+tags: githubpage
+comments: true
 published: true
 ---
 # 2020 0707.
