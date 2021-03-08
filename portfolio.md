@@ -24,7 +24,7 @@ font-weight:bold">
 ---
 > 1995.11.4 대한민국,서울특별시,동작구 출생
 
-> 연락처: khw11044@gmail.com
+> 연락처: 
 
 > Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
 
